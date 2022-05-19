@@ -1,4 +1,3 @@
-Create Product and Rating Component
-create Rating component
-create Product component
-use Rating component in Product component
+Create Product Details Screen
+fetch product from backend
+create 3 column for image, info and action
