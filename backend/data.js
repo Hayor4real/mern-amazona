@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: '1',
       name: 'nike Slim shirt',
       slug: 'nike-slim-shirt',
       category: 'Shirts',
@@ -13,6 +14,7 @@ const data = {
       description: 'high quality shirt',
     },
     {
+      _id: '2',
       name: 'Adidas Fit Shirt',
       slug: 'adidas-fit-shirt',
       category: 'Shirts',
@@ -25,6 +27,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '3',
       name: 'nike-slim-pant',
       slug: 'nike-slim-pant',
       category: 'Pants',
@@ -37,6 +40,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '4',
       name: 'Adidas Fit Pant',
       slug: 'adidas-fit-pant',
       category: 'Pants',
@@ -49,6 +53,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '5',
       name: 'Cartoon Astronuat T-Shirts',
       slug: 'Cartoon Astronuat T-Shirts',
       category: 'Shirts',
@@ -61,6 +66,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '6',
       name: 'Cartoon flower T-Shirts',
       slug: 'Cartoon flower T-Shirts',
       category: 'Shirts',
@@ -73,6 +79,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '7',
       name: 'Cartoon designer T-Shirts',
       slug: 'Cartoon designer T-Shirts',
       category: 'Shirts',
@@ -85,6 +92,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '8',
       name: 'Cartoon jacket T-Shirt',
       slug: 'Cartoon jacket T-Shirt',
       category: 'Shirts',
@@ -97,6 +105,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '9',
       name: 'Cartoon 3 quater',
       slug: 'Cartoon 3 quater',
       category: 'Trouser',
@@ -109,6 +118,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '10',
       name: 'Cartoon slim fit T-Shirt',
       slug: 'Cartoon slim fit T-Shirt',
       category: 'Shirts',
@@ -121,6 +131,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '11',
       name: 'Cartoon  Ash slim fit T-Shirt',
       slug: 'Cartoon Ash slim fit T-Shirt',
       category: 'Shirts',
@@ -133,6 +144,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '12',
       name: 'Cartoon white slim fit T-Shirt',
       slug: 'Cartoon white slim fit T-Shirt',
       category: 'Shirts',
@@ -145,6 +157,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '13',
       name: 'Cartoon slim fit T-Shirt',
       slug: 'Cartoon  slim fit T-Shirt',
       category: 'Shirts',
@@ -157,6 +170,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '14',
       name: 'Cartoon blue slim fit T-Shirt',
       slug: 'Cartoon blue slim fit T-Shirt',
       category: 'Shirts',
@@ -169,6 +183,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '15',
       name: 'Cartoon short trouser',
       slug: 'Cartoon short trouser',
       category: 'Trouser',
@@ -181,6 +196,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '16',
       name: 'Cartoon brawn slim fit T-Shirt',
       slug: 'Cartoon brawn slim fit T-Shirt',
       category: 'Shirts',
@@ -193,6 +209,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '17',
       name: 'Cartoon purple slim fit T-Shirt',
       slug: 'Cartoon purple slim fit T-Shirt',
       category: 'Shirts',
