@@ -1,4 +1,5 @@
-Create Signin Screen
-create sign form
-add email and password
-add signing button
+Connect To MongoDB Database
+create atlas Mongodb database
+install local mongodb database
+npm install mongoose
+connect to mongodb database
