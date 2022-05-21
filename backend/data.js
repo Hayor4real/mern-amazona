@@ -221,6 +221,19 @@ const data = {
       numReviews: 10,
       description: 'high quality product',
     },
+    {
+      _id: '18',
+      name: 'Music player',
+      slug: 'Music player',
+      category: 'Music',
+      image: '/images/Alexxa.jpg',
+      price: 175,
+      countInStock: 25,
+      brand: 'sony',
+      rating: 7.5,
+      numReviews: 10,
+      description: 'high quality product',
+    },
   ],
 };
 
