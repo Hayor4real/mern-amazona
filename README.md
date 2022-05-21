@@ -1,5 +1,6 @@
-Connect To MongoDB Database
-create atlas Mongodb database
-install local mongodb database
-npm install mongoose
-connect to mongodb database
+Seed Sample Data
+create Product model
+create User model
+create seed route
+use route in server.js
+seed sample
