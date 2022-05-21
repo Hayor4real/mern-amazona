@@ -1,6 +1,4 @@
-Seed Sample Data
-create Product model
+Seed Sample Users
 create User model
-create seed route
-use route in server.js
-seed sample
+seed sample users
+create user routes
