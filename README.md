@@ -1,4 +1,3 @@
-Create Sign up Screen
+Implement Select Payment Method Screen
 create input forms
 handle submit
-create backend api
