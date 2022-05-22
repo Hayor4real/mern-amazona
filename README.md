@@ -1,4 +1,4 @@
-Create Shipping Screen
-create form inputs
-handle save shipping address
-add checkout wizard bar
+Create Sign up Screen
+create input forms
+handle submit
+create backend api
