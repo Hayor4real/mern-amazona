@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Hayor4real/mern-amazona/issues"
   },
-  "homepage": "https://github.com/Hayor4real/mern-amazona#readme"
+  "homepage": "https://github.com/Hayor4real/mern-amazona#readme",
+  "engines": {
+    "node": "14.17.5"
+  }
 }
