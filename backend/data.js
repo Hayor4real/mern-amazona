@@ -238,7 +238,6 @@ const data = {
       description: 'high quality product',
     },
     {
-      // _id: '18',
       name: 'Music player',
       slug: 'Music player',
       category: 'Music',
