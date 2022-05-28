@@ -18,9 +18,9 @@
     "express-async-handler": "^1.2.0",
     "js": "^0.1.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.3.4"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.16"
+    "mongoose": "^6.3.4",
+    "nodemon": "^2.0.16",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
   }
 }
